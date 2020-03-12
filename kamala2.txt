@@ -1,1 +1,2 @@
 fisrt assignment for devop class.
+pushing a text from master branch to dev branch.
